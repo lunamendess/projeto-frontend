@@ -23,13 +23,13 @@ npm run dev
 ### 1. Criar o projeto
 
 ```bash
-npm create vite@latest estudoapp-site --template react
+npm create vite@latest projeto-frontend --template react
 ```
 
 ### 2. Instalar as dependências
 
 ```bash
-cd estudoapp-site
+cd projeto-frontend
 npm install react-bootstrap bootstrap
 npm install react-router-dom
 npm install react-router-bootstrap
