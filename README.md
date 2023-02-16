@@ -1,6 +1,6 @@
-# case2-frontend
+# projeto-frontend
 
-Case 2 - Site do EstudoApp (Frontend)
+Projeto- Site (Frontend)
 
 ## Sobre o projeto
 
